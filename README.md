@@ -44,25 +44,27 @@ When I'm not deploying code, I'm usually focusing on strategy and exploration:
 * 🚴 **Cycling:** Exploring new routes and endurance riding.
 * ✈️ **Travel:** Seeking new perspectives and environments.
 
-<!-- 
-## 📊 Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jimvictoria002&theme=dracula&show_icons=true&count_private=true&hide_border=true" />
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jimvictoria002&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</div>
-
 <div align="center">
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jimvictoria002&theme=react-dark&hide_border=true" width="100%" />
 </div>
+<!-- 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jimvictoria002&theme=dracula&show_icons=true&count_private=true&hide_border=true" />
+</div>
+<div align="center">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jimvictoria002&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</div>
+-->
+
+
+
+
+<!-- 
 
 ---
-
 <div align="center">
   
   <a href="https://linkedin.com/in/yourprofile">
