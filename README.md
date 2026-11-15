@@ -2,13 +2,18 @@
   
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,22,35&height=180&section=header&text=Jimuel%20Victoria&fontSize=62&fontAlignY=35&animation=twinkling&fontColor=fff" />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3BFFA6&center=true&vCenter=true&random=false&width=835&lines=Full-Stack+Developer;Laravel+%26+PHP;VILT+%26+TALL+Stack+Expert;Mobile+App+Developer+(Flutter+%2F+Kotlin)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3BFFA6&center=true&vCenter=true&random=false&width=835&lines=Full-Stack+Developer;Laravel+%26+PHP;VILT+%26+TALL+Stack+Expert;Mobile+Apps+(Kotlin+%2F+React+Native)" alt="Typing SVG" />
+
+
+  <a href="https://jimvictoria.dev">
+    <img src="https://img.shields.io/badge/Portfolio-jimvictoria.dev-3BFFA6?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0e0e0b" alt="Portfolio: jimvictoria.dev" />
+  </a>
 
 </div>
 
 ## 🚀 About Me
 
-I build end-to-end digital solutions with a focus on performance and maintainability. Deeply embedded in the **Laravel ecosystem**, I move fluidly between **VILT** and **TALL** stacks while extending reach to mobile via **Flutter** and **Kotlin**. 
+I build end-to-end digital solutions with a focus on performance and maintainability. Deeply embedded in the **Laravel ecosystem**, I move fluidly between **VILT** and **TALL** stacks while extending reach to mobile via **Kotlin**, **React Native**, and **Flutter**. 
 
 Basically, I am dedicated to writing clean, maintainable code and designing architectures that stand the test of time.
 
@@ -27,6 +32,7 @@ Basically, I am dedicated to writing clean, maintainable code and designing arch
 ### 🔹 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🔹 Backend & API
 ![Laravel Sanctum](https://img.shields.io/badge/Laravel_Sanctum-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -46,7 +52,11 @@ When I'm not deploying code, I'm usually focusing on strategy and exploration:
 
 <div align="center">
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jimvictoria002&theme=react-dark&hide_border=true" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jimvictoria002/jimvictoria002/output/contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jimvictoria002/jimvictoria002/output/contribution-graph.svg" />
+    <img alt="Jimuel's GitHub contribution graph" src="https://raw.githubusercontent.com/jimvictoria002/jimvictoria002/output/contribution-graph.svg" width="100%" />
+  </picture>
 </div>
 <!-- 
 
