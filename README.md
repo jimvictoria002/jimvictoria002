@@ -52,11 +52,7 @@ When I'm not deploying code, I'm usually focusing on strategy and exploration:
 
 <div align="center">
   <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jimvictoria002/jimvictoria002/output/contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jimvictoria002/jimvictoria002/output/contribution-graph.svg" />
-    <img alt="Jimuel's GitHub contribution graph" src="https://raw.githubusercontent.com/jimvictoria002/jimvictoria002/output/contribution-graph.svg" width="100%" />
-  </picture>
+  <img alt="Jimuel Victoria's contribution graph for the last 31 days" src="https://raw.githubusercontent.com/jimvictoria002/jimvictoria002/output/activity-graph.svg" width="100%" />
 </div>
 <!-- 
 
